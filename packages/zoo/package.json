@@ -9,7 +9,7 @@
     "dist/**"
   ],
   "scripts": {
-    "typecheck": "tsc"
+    "serve": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
